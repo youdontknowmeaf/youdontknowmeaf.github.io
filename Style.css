@@ -1,0 +1,38 @@
+* {
+  color: #eff6ee;
+}
+
+hr {
+  border: none;
+  height: 3px;
+  background-color: black;
+}
+
+a {
+  color: #968732;
+}
+
+body {
+  background-color: #4c5844;
+}
+
+header, .List, footer {
+  padding: 5px;
+  background-color: #3f4738;
+}
+
+
+
+.btns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  max-width: 300px;
+}
+
+.btns img {
+  width: 88px;
+  height: 31px;
+  image-rendering: pixelated;
+  border: 0;
+}
